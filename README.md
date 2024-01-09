@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LandonMorales
-- 🌱 I’m currently studying CS & Poly Sci @VanderbiltUniversity
+- 🌱 I’m currently studying CS & Poli Sci @VanderbiltUniversity
 - 📫 How to reach me --> landon.q.morales@vanderbilt.edu
 
 <!---
